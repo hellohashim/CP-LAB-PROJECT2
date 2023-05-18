@@ -7,7 +7,7 @@ int main()
 	cout << "\033[33m |                                             |                                               |                                              |\033[33m" << endl;
 	cout << "\033[33m |                                             |                                               |                                              |\033[33m" << endl;
 	cout << "\033[33m |                                             |                                               |                                              |\033[33m" << endl;
-	cout << "\033[33m |                                             |  change*                                 |                                              |\033[33m" << endl;
+	cout << "\033[33m |                                             |                     change*             |                                              |\033[33m" << endl;
 	cout << "\033[33m |                                             |                                               |                                              |\033[33m" << endl;
 	cout << "\033[33m |                                             |                                               |                                              |\033[33m" << endl;
 	cout << "\033[33m |                                             |                                               |                                              |\033[33m" << endl;
